@@ -116,7 +116,7 @@ To reduce phishing risks, users should follow these security practices:
 
 The complete phishing analysis report is available here:
 
-📄 **[Download the Full Report](report.pdf)**
+📄 **[Download the Full Report](Report.pdf)**
 
 The report contains:
 
